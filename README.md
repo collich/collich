@@ -2,7 +2,8 @@
 It's ya boy, **Collin**.
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django and re-learning python 🐍
+- 🌱 I’m currently learning ReactJS ⚛️
+- 🎆 I'm currently looking forward to making my own website using NextJS :n
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
