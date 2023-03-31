@@ -19,11 +19,6 @@ You can click the Preview link to take a look at your changes.
 </picture>
  -->
 
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15149
-Fork on GitHub4110
 <h1 align="center">👋 Heylo 👋, It's ya boi Collin</h1>
 <h3 align="center">A passionate FullStack Developer, Graduated with an Electrical Engineering Diploma in Polytechnic with a diploma in Web Development from a coding bootcamp.</h3>
 
