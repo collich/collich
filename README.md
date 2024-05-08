@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Heylo 👋, It's ya boi Collin</h1>
 <h3 align="center">A passionate FullStack Developer, Graduated with an Electrical Engineering Diploma in Polytechnic with a diploma in Web Development from a coding bootcamp.</h3>
 
-- 🔭 I’m currently working on **MER OpenAI integration**
+- 🔭 I’m currently working on **Polishing my Golang Skills**
 
-- 🌱 I’m currently learning **NextJS && Java... I definitely want to learn Tauri too just to bring my frontend webapps to desktop.**
+- 🌱 I’m currently learning **Golang, Java, Docker and Kubernetes... I definitely want to learn Wails too just to bring my frontend webapps to desktop.**
 
 - ⚡ Fun fact **I think I'm kinda stupid sometimes, actually everytime**
 
