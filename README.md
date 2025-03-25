@@ -1,5 +1,5 @@
 <!-- # 👋 Heylo 👋
-It's ya boy, **Collin**.
+It's ya boy.
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Golang, Java, Docker and Kubernetes
